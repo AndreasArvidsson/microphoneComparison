@@ -16,7 +16,7 @@ blow x2
 ```
 
 2022-02-24\
-[ModMic USB unidirectional setting](./simple/1%20-%20ModMic%20USB%20unidirectional.m4a)\
+[1 - ModMic USB unidirectional setting](./simple/1%20-%20ModMic%20USB%20unidirectional.m4a)\
 [2 - ModMic USB omnidirectional setting](./simple/2%20-%20ModMic%20USB%20omnidirectional.m4a)\
 [3 - AKG C520 into a Focusrite Scarlet 18i20 soundcard](./simple/3%20-%20AKG%20C520.m4a)\
 [4 - Blue Yeti cardioid setting](./simple/4%20-%20Blue%20Yeti%20cardioid.m4a)\
