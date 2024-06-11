@@ -1,0 +1,21 @@
+Microphone test of ...
+
+2022-02-24
+1 - ModMic USB unidirectional setting
+2 - ModMic USB omnidirectional setting
+3 - AKG C520 into a Focusrite Scarlet 18i20 soundcard
+4 - Blue Yeti cardioid setting
+5 - Sennheiser PC 363D gaming headset into an integrated Realtek soundcard
+
+2022-06-22
+6 - DPA 4288 into a Focusrite Scarlet 18i20 soundcard
+
+2023-12-12
+7 - DPA 4288 into a Focusrite Scarlet 18i20 soundcard
+8 - Razer Blackshark V2 Pro 2023
+
+The quick brown fox jumps over the lazy dog. The dog wakes up and follows the fox into the forest, but again the quick brown fox jumps over the lazy dog
+
+pop x2
+cluck x2
+blow x2
