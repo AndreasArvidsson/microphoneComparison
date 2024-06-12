@@ -1,4 +1,4 @@
-# Microphone comoparison
+# Microphone comparison
 
 Comparisons of different microphones. Primarily done for use with Talon voice.
 
