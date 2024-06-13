@@ -46,3 +46,6 @@ The quick brown fox jumps over the lazy dog. The dog wakes up and follows the fo
 [1 - Blue Yeti cardioid setting](./background/1%20-%20Blue%20Yeti.flac)\
 [2 - DPA 4288 into a Focusrite Scarlet 18i20 soundcard](./background/2%20-%20DPA%204288.flac)\
 [3 - Razer Blackshark V2 Pro 2023](./background/3%20-%20Razer%20Blackshark%20V2%20Pro%202023.flac)
+
+![MasvisOnline a review of the above three soundtracks](/background/masvis-online%20overview.png)
+[MasvisOnline - Analyze audio files online](http://andreasarvidsson.github.io/MasvisOnline/)
