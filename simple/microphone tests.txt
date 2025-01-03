@@ -14,6 +14,10 @@ Microphone test of ...
 7 - DPA 4288 into a Focusrite Scarlet 18i20 soundcard
 8 - Razer Blackshark V2 Pro 2023
 
+2025-01-03
+9 - Koss Porta Pro Communication headset into onboard audio
+
+
 The quick brown fox jumps over the lazy dog. The dog wakes up and follows the fox into the forest, but again the quick brown fox jumps over the lazy dog
 
 pop x2
