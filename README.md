@@ -29,6 +29,9 @@ blow x2
 [7 - DPA 4288 into a Focusrite Scarlt 18i20 soundcard](./simple/7%20-%20DPA%204288.m4a)\
 [8 - Razer Blackshark V2 Pro 2023](./simple/8%20-%20Razer%20Blackshark%20V2%20Pro%202023.m4a)
 
+2025-01-03
+[9 - Koss Porta Pro Communication headset into onboard audio](./simple/9%20-%20Koss%20Porta%20Pro.flac)
+
 ## With background audio
 
 ```
